@@ -1,5 +1,3 @@
-Bağlantılar & Kurulum
-
 1.pin diagram
 
 You can see which cable goes where here.:
